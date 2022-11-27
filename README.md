@@ -1,2 +1,3 @@
 # Install Nether Quest on Linux with shell script
-# Has not been tested
+Run the file to start
+Has not been tested
